@@ -1,0 +1,15 @@
+{
+  "name": "MeuCardapio Entregador",
+  "short_name": "Entregador",
+  "description": "Viagens, entregas e turno do motoboy.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f6",
+  "theme_color": "#1f7a5a",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "../brand/meucardapio-mark.png", "sizes": "any", "type": "image/png", "purpose": "any" }
+  ]
+}
